@@ -36,7 +36,7 @@
 
 ## 🔧 Installation
 
-1. Download the latest `.zip` release from the [Releases](#) section.
+1. [📦 Download the latest ZIP](https://github.com/hydrospheric0/xyz_export/blob/main/xyz_export_plugin.zip)
 2. In QGIS, go to `Plugins → Manage and Install Plugins → Install from ZIP`.
 3. Select the ZIP and install.
 4. Access the plugin under `Plugins → Screenshot Export → Export XYZ Tiles`.
