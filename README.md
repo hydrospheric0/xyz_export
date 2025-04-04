@@ -7,13 +7,14 @@
 ## Features
 
 ### Export Raster Layers to PNG
-- Select visible **raster layers** (including XYZ tiles or WMS)
+- Select visible **raster layers** (this was mainly written to batch export XYZ tiles images, but any raster format should work)
 - Automatically uses current map canvas extent
 - Supports standard output resolutions:
   - `1920×1080 (2K)`
   - `3840×2160 (4K)`
   - `7680×4320 (8K)`
 - PNGs are saved at **300 DPI**
+- Any Vector layers in the project are ignored
 
 ### 📁 Output Management
 - Choose your own export folder
