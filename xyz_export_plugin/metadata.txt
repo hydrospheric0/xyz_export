@@ -1,0 +1,9 @@
+[general]
+name=Screenshot Export
+description=Exports raster layers (e.g. XYZ tiles) to PNG at selected resolution with optional animation.
+version=1.0
+qgisMinimumVersion=3.0
+author=Metolius Research
+email=metoliusresearch@gmail.com
+category=Raster
+icon=icon.png
