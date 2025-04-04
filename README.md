@@ -59,6 +59,7 @@ Planned features for future versions:
 - [ ] Overlay options for date and credits
 - [ ] AOI-based clipping and zoom control
 - [ ] Custom DPI and resolution options
+- [ ] Overlay vector data
 
 ---
 
